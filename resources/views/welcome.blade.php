@@ -11,21 +11,21 @@
 
 <body class="bg-gray-900 text-white p-6">
     <header class="mb-12">
-        <nav class="bg-gray-700 border-gray-200 px-4 lg:px-6 py-2.5">
+        <nav class="bg-gray-900 border-gray-200 px-4 lg:px-6 py-2.5">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="https://flowbite.com" class="flex items-center">
                     <img src="{{ asset('images/logo.jpg') }}" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-                    <span class="self-center text-xl font-semibold whitespace-nowrap text-gray-300">LIMCOM</span>
+                    <span class="self-center text-xl font-semibold whitespace-nowrap text-gray-50">LIMCOM</span>
                 </a>
                 <div class="flex items-center lg:order-2">
                     <a href="{{ route('helper.mision') }}"
-                        class="text-gray-800 dark:text-black hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:hover:bg-gray-700 focus:outline-none dark:focus:ring-gray-800">Mision/Vision</a>
+                        class="text-gray-50  hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2  focus:outline-none ">Mision/Vision</a>
                     <a href="{{ route('helper.problematica') }}"
-                        class="text-black bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">Problematica</a>
+                        class="text-gray-50 bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">Problematica</a>
                     <a href="{{ route('helper.solucion') }}"
-                        class="text-black bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">Solucion</a>
+                        class="text-gray-50 bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">Solucion</a>
                     <a href="{{ route('helper.index') }}"
-                        class="text-black bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">MBC</a>
+                        class="text-gray-50 bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:bg-primary-600 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">MBC</a>
                     <button data-collapse-toggle="mobile-menu-2" type="button"
                         class="inline-flex items-center p-2 ml-1 text-sm text-gray-500 rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
                         aria-controls="mobile-menu-2" aria-expanded="false">
@@ -103,7 +103,7 @@
 
         </blockquote>
     </article>
-    <footer class="bg-gray-700">
+    <footer class="bg-gray-800">
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
             <div class="md:flex md:justify-between">
                 <div class="mb-6 md:mb-0">
@@ -139,7 +139,7 @@
                     </div>
                     <div>
                         <h2 class="mb-6 text-sm font-semibold text-gray-200 uppercase">Legal</h2>
-                        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                        <ul class="text-gray-200 font-medium">
                             <li class="mb-4">
                                 <a href="#" class="hover:underline">Privacy Policy</a>
                             </li>
