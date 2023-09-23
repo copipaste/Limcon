@@ -11,7 +11,7 @@
 
 <body class="bg-gray-900 text-white p-6">
     <header class="mb-12">
-        <nav class="bg-gray-200 border-gray-200 px-4 lg:px-6 py-2.5">
+        <nav class="bg-gray-400 border-gray-200 px-4 lg:px-6 py-2.5">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="https://flowbite.com" class="flex items-center">
                     <img src="{{ asset('images/logo.jpg') }}" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
@@ -78,11 +78,11 @@
     <img src="{{ asset('images/basura2.jpg') }}" alt="" class="w-full h-screen object-cover">
 
     <article class="mb-12 mt-16">
-        <p class="mb-3 text-gray-500 dark:text-gray-400">En un mundo cada vez más preocupado por el cuidado y la
+        <p class="mb-3 text-gray-200">En un mundo cada vez más preocupado por el cuidado y la
             preservación del medio ambiente, las empresas de limpieza urbana juegan un papel fundamental en la
             mejora de la calidad de vida de las personas y el mantenimiento de las ciudades.</p>
         <div class="grid grid-cols-1 md:gap-6 md:grid-cols-2">
-            <p class="mb-3 text-gray-500 dark:text-gray-400"> Estas empresas se
+            <p class="mb-3 text-gray-200"> Estas empresas se
                 dedican a brindar servicios de limpieza y recolección de residuos en entornos urbanos, contribuyendo al
                 bienestar de la comunidad y al cuidado del entorno.
                 La limpieza urbana no solo implica la eliminación de desperdicios, sino que también tiene un impacto
@@ -91,19 +91,19 @@
                 orgullo por parte de la comunidad.
             </p>
             <blockquote class="mb-3">
-                <p class="text-xl italic font-semibold text-white dark:text-black">" LimCom: Donde la limpieza se
+                <p class="text-xl italic font-semibold text-white">" LimCom: Donde la limpieza se
                     encuentra con la conciencia ecológica, creando un mundo más brillante y verde. Cada acto de limpieza
                     con LimCom es un paso hacia un planeta más saludable y limpio. "</p>
             </blockquote>
         </div>
-        <p class="mb-3 text-gray-500 dark:text-gray-400">En resumen, nuestra empresa de limpieza urbana es fundamental en la gestión y mantenimiento de la limpieza de nuestra ciudad. La labor contribuye a mejorar la calidad de vida de las personas, a preservar el medio ambiente y a promover espacios públicos agradables y seguros.</p>
+        <p class="mb-3 text-gray-200">En resumen, nuestra empresa de limpieza urbana es fundamental en la gestión y mantenimiento de la limpieza de nuestra ciudad. La labor contribuye a mejorar la calidad de vida de las personas, a preservar el medio ambiente y a promover espacios públicos agradables y seguros.</p>
 
         <blockquote class="mb-3">
             <p class="text-xl italic font-semibold text-gray-200 dark:text-gray-600">Video de presentacion:  <a href="https://drive.google.com/drive/folders/1LrCxwzTq-kCB1E630xoTh53CjM2zy--9?usp=sharing" target="_blank" class="text-blue-500 hover:underline">Enlace al video de presentación</a></p>
 
         </blockquote>
     </article>
-    <footer class="bg-white dark:bg-gray-900">
+    <footer class="bg-gray-400">
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
             <div class="md:flex md:justify-between">
                 <div class="mb-6 md:mb-0">
