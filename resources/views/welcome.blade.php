@@ -19,7 +19,7 @@
                 </a>
                 <div class="flex items-center lg:order-2">
                     <a href="{{ route('helper.mision') }}"
-                        class="text-gray-50  hover:bg-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2  focus:outline-none ">Mision/Vision</a>
+                        class="text-gray-50 focus:ring-4 focus:ring-gray-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2  focus:outline-none ">Mision/Vision</a>
                     <a href="{{ route('helper.problematica') }}"
                         class="text-gray-50 bg-primary-700 hover:bg-primary-800 focus:ring-4 focus:ring-primary-300 font-medium rounded-lg text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2 dark:hover:bg-primary-700 focus:outline-none dark:focus:ring-primary-800">Problematica</a>
                     <a href="{{ route('helper.solucion') }}"
@@ -103,7 +103,7 @@
 
         </blockquote>
     </article>
-    <footer class="bg-gray-800">
+    <footer class="bg-gray-900">
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
             <div class="md:flex md:justify-between">
                 <div class="mb-6 md:mb-0">
