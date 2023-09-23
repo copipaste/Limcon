@@ -99,7 +99,7 @@
         <p class="mb-3 text-gray-200">En resumen, nuestra empresa de limpieza urbana es fundamental en la gestión y mantenimiento de la limpieza de nuestra ciudad. La labor contribuye a mejorar la calidad de vida de las personas, a preservar el medio ambiente y a promover espacios públicos agradables y seguros.</p>
 
         <blockquote class="mb-3">
-            <p class="text-xl italic font-semibold text-gray-200 dark:text-gray-600">Video de presentacion:  <a href="https://drive.google.com/drive/folders/1LrCxwzTq-kCB1E630xoTh53CjM2zy--9?usp=sharing" target="_blank" class="text-blue-500 hover:underline">Enlace al video de presentación</a></p>
+            <p class="text-xl italic font-semibold text-gray-200">Video de presentacion:  <a href="https://drive.google.com/drive/folders/1LrCxwzTq-kCB1E630xoTh53CjM2zy--9?usp=sharing" target="_blank" class="text-blue-500 hover:underline">Enlace al video de presentación</a></p>
 
         </blockquote>
     </article>
