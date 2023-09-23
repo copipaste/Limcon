@@ -11,11 +11,11 @@
 
 <body class="bg-gray-900 text-white p-6">
     <header class="mb-12">
-        <nav class="bg-black border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
+        <nav class="bg-gray-200 border-gray-200 px-4 lg:px-6 py-2.5 dark:bg-gray-800">
             <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
                 <a href="https://flowbite.com" class="flex items-center">
                     <img src="{{ asset('images/logo.jpg') }}" class="mr-3 h-6 sm:h-9" alt="Flowbite Logo" />
-                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-black">LIMCOM</span>
+                    <span class="self-center text-xl font-semibold whitespace-nowrap dark:text-gray-700">LIMCOM</span>
                 </a>
                 <div class="flex items-center lg:order-2">
                     <a href="{{ route('helper.mision') }}"
@@ -99,11 +99,11 @@
         <p class="mb-3 text-gray-500 dark:text-gray-400">En resumen, nuestra empresa de limpieza urbana es fundamental en la gestión y mantenimiento de la limpieza de nuestra ciudad. La labor contribuye a mejorar la calidad de vida de las personas, a preservar el medio ambiente y a promover espacios públicos agradables y seguros.</p>
 
         <blockquote class="mb-3">
-            <p class="text-xl italic font-semibold text-gray-900 dark:text-black">Video de presentacion:  <a href="https://drive.google.com/drive/folders/1LrCxwzTq-kCB1E630xoTh53CjM2zy--9?usp=sharing" target="_blank" class="text-blue-500 hover:underline">Enlace al video de presentación</a></p>
+            <p class="text-xl italic font-semibold text-gray-900 dark:text-gray-200">Video de presentacion:  <a href="https://drive.google.com/drive/folders/1LrCxwzTq-kCB1E630xoTh53CjM2zy--9?usp=sharing" target="_blank" class="text-blue-500 hover:underline">Enlace al video de presentación</a></p>
 
         </blockquote>
     </article>
-    <footer class="bg-black dark:bg-gray-900">
+    <footer class="bg-white dark:bg-gray-900">
         <div class="mx-auto w-full max-w-screen-xl p-4 py-6 lg:py-8">
             <div class="md:flex md:justify-between">
                 <div class="mb-6 md:mb-0">
